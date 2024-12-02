@@ -1,0 +1,71 @@
+Core Technologies
+React 18.3.1 - Frontend library
+TypeScript - Type-safe JavaScript
+Vite - Build tool and development server
+React Router DOM - Client-side routing
+Framer Motion - Animations and transitions
+Styling & UI
+Tailwind CSS - Utility-first CSS framework
+Custom gradients - Cyberpunk/tech-inspired color scheme
+Lucide React - Icon library
+Responsive design - Mobile-first approach
+Glass morphism effects - Using backdrop-blur and transparent backgrounds
+Components Structure
+Layout Components
+
+Navbar - Navigation and responsive menu
+PageTransition - Smooth page transitions
+Hero - Landing page hero section
+Feature Components
+
+EventCard - Reusable event display component
+Events - Event grid layout
+Pages
+
+Home (Landing)
+About
+Schedule
+Register
+Tickets
+Billing
+UI/UX Features
+Navigation
+
+Smooth page transitions
+Responsive mobile menu
+Active link highlighting
+Interactive Elements
+
+Hover effects on cards
+Gradient buttons
+Form inputs with icons
+Checkbox controls
+Visual Design
+
+Dark theme
+Gradient accents
+Glass morphism effects
+Hero section with overlay
+Card-based layouts
+Animation System
+Page transitions using Framer Motion
+Hover animations using Tailwind
+Smooth scrolling
+Loading states
+Form Handling
+Registration form
+Billing form
+Input validation
+Form submission handling
+Routing System
+Client-side routing
+Protected routes
+Route transitions
+State management through route
+Best Practices
+Component reusability
+Type safety with TypeScript
+Responsive design patterns
+Performance optimization
+Clean code structure
+Modular architecture
